@@ -22,11 +22,6 @@ Lately I've been doing a lot of infrastructural and DevOps-related tasks. Optimi
 **hoolah** \
 Feb 2020 – Jun 2021 (1 year 5 months) \
 Responsibilities:
-- Development and design of the server part of the _hoolah.co_ service, which is based on the Kotlin/Java, Hibernate, Dropwizard, MySQL, Redis, AWS technology stack.
-- Leader of a small team, whose responsibilities include a set of components that implement user registration and identification, their architecture, and development.
-- As a developer, communicate with frontend teams (Web/Mobile App) that interact with the backend using REST.
-- Support for the service on the prod, search and fix bugs for which Splunk, Sentry is used.
-Responsibilities:
 - Development and design of the server side of the _hoolah.co_ service, which is based on the technology stack: Kotlin/Java, Hibernate, Dropwizard, MySQL, Redis, AWS.
 - Head of a small team whose responsibilities include the set of components that implement user registration and authentication; their architecture and development.
 - As a developer, communicating with frontend teams (Web/Mobile App), REST interaction.
@@ -113,6 +108,6 @@ Java software development • Core Java • JDBC • SQL • Hibernate • Maven
 
 ## Honors & Awards
 
-Better Programmer Java Hands-On certifiaction - http:// www.betterprogrammer.com/certificate/BP1NXDMTV
-Apr 2012\
+- Better Programmer Java Hands-On certifiaction - http:// www.betterprogrammer.com/certificate/BP1NXDMTV \
+Apr 2012 \
 successfully completed the Better ProgrammerTM online test and solved multiple hands-on programming tasks better than 97% of all test takers.
