@@ -94,13 +94,13 @@ Master of Science (MS), Automation Engineer Technology/Technician \
 
 ## Licenses & Certifications
 
-M101J: MongoDB for Java Developers - 10gen, The MongoDB Company
+- M101J: MongoDB for Java Developers - 10gen, The MongoDB Company
 2f231ed492494639ae9fc8c81b3c1b0c \
-M102: MongoDB for DBAs \
-Front-End JavaScript Frameworks: AngularJS - Coursera Course Certificates
+- M102: MongoDB for DBAs \
+- Front-End JavaScript Frameworks: AngularJS - Coursera Course Certificates
 J99X7MHM38DG \
-Front-End Web UI Frameworks and Tools - Coursera Course Certificates FLAAR73TM974 \
-HTML, CSS and JavaScript - Coursera Course Certificates WBATCRW9U56S
+- Front-End Web UI Frameworks and Tools - Coursera Course Certificates FLAAR73TM974 \
+- HTML, CSS and JavaScript - Coursera Course Certificates WBATCRW9U56S
 
 ## Skills
 
