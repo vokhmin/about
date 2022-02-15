@@ -6,8 +6,8 @@ andrew.vokhmin@gmail.com
 
 ### Software Development Engineer
 Spotware Systems
-Jun 2021 (9 months)
-Jan 2016 - Jan 2020 (4 years 1 month)
+Jun 2021 (9 months)\
+Jan 2016 - Jan 2020 (4 years 1 month)  
 Responsibilities:
 - As a part of a server-side team, development and supporting backend services of the high-loaded multi-instrumental trading platform and later the crypto-currency exchange (trading functionality: orders matching and processing, user management, various stateless and stateful services, interactions with Postrgesql and RabbitMQ);
 - Implementing adapters to communicate with third party market liquidity providers (FIX or proprietary protocol) and with different blockchains through the json-rpc API (Bitcoin, Ethereum, ERC20 tokens) and integration java based services with Solidity contracts;
