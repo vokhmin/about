@@ -18,6 +18,20 @@ Responsibilities:
 
 Lately I've been doing a lot of infrastructural and DevOps-related tasks. Optimized project build processes, CI pipelines and DB migrations. Implemented Docker/Compose based environment for local development executing all backend services, which made it possible to write full-fledged end-to-end tests for the company's server products. Helped migrate this solution to Kubernetes.
 
+### Software Engineer
+**hoolah** \
+Feb 2020 – Jun 2021 (1 year 5 months) \
+Responsibilities:
+- Development and design of the server part of the _hoolah.co_ service, which is based on the Kotlin/Java, Hibernate, Dropwizard, MySQL, Redis, AWS technology stack.
+- Leader of a small team, whose responsibilities include a set of components that implement user registration and identification, their architecture, and development.
+- As a developer, communicate with frontend teams (Web/Mobile App) that interact with the backend using REST.
+- Support for the service on the prod, search and fix bugs for which Splunk, Sentry is used.
+Responsibilities:
+- Development and design of the server side of the _hoolah.co_ service, which is based on the technology stack: Kotlin/Java, Hibernate, Dropwizard, MySQL, Redis, AWS.
+- Head of a small team whose responsibilities include the set of components that implement user registration and authentication; their architecture and development.
+- As a developer, communicating with frontend teams (Web/Mobile App), REST interaction.
+- Service support on prod, troubleshooting and fixing bugs, for which Splunk, Sentry are used.
+
 ### Freelance Software Engineer
 **Self-Employed** \
 Mar 2015 - Dec 2015 (10 months)
@@ -95,7 +109,7 @@ HTML, CSS and JavaScript - Coursera Course Certificates WBATCRW9U56S
 
 ## Skills
 
-Java software development • Core Java • JDBC • SQL • Hibernate • Maven/Gradle • Spring Framework • J2SE
+Java software development • Core Java • JDBC • SQL • Hibernate • Maven/Gradle • Spring Framework • J2SE  • Kotlin
 
 ## Honors & Awards
 
