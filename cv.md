@@ -69,17 +69,21 @@ Responsibilities:
 - Responsible for integration the service with the payment system of company - Dengi@Mail.ru.
 In the team (number of developers ranged from 2 to 5 people): assignments and supervision of the tasks, code-review and project management, support environment for testing and development; carried out the task of coding, testing and debugging.
 - Responsible for maintenance the deployment, updating, and configuring the service, worked with the system administrators of company and the technical specialists of partners, processed the requests from the tech-support, participated in the analysis of error conditions and reconciliations.
-Software Engineer, Team Lead
-Uralsvyazinform JSC, Nizhnevartovsk Telecom May 1999 - Jun 2007 (8 years 2 months)
+
+### Software Engineer, Team Lead
+**Uralsvyazinform JSC, Nizhnevartovsk Telecom** \
+May 1999 - Jun 2007 (8 years 2 months)
 
 ### Software Engineer
 **Inter RAO** \
 Aug 1995 - Apr 1999 (3 years 9 months) \
-Education \
-Ivanovo State Power University \
-Master of Science (MS), Automation Engineer Technology/Technician 1990 - 1995
 
-### Licenses & Certifications
+## Education
+Ivanovo State Power University \
+Master of Science (MS), Automation Engineer Technology/Technician \
+1990 - 1995
+
+## Licenses & Certifications
 
 M101J: MongoDB for Java Developers - 10gen, The MongoDB Company
 2f231ed492494639ae9fc8c81b3c1b0c \
@@ -87,13 +91,13 @@ M102: MongoDB for DBAs \
 Front-End JavaScript Frameworks: AngularJS - Coursera Course Certificates
 J99X7MHM38DG \
 Front-End Web UI Frameworks and Tools - Coursera Course Certificates FLAAR73TM974 \
-HTML, CSS and JavaScript - Coursera Course Certificates WBATCRW9U56S \
+HTML, CSS and JavaScript - Coursera Course Certificates WBATCRW9U56S
 
-### Skills
+## Skills
 
-Java software development • Core Java • JDBC • SQL • MySQL • Servlets • Hibernate • Maven • Spring Framework • J2SE
+Java software development • Core Java • JDBC • SQL • Hibernate • Maven/Gradle • Spring Framework • J2SE
 
-### Honors & Awards
+## Honors & Awards
 
 Better Programmer Java Hands-On certifiaction - http:// www.betterprogrammer.com/certificate/BP1NXDMTV
 Apr 2012\
