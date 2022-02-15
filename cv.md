@@ -85,7 +85,7 @@ May 1999 - Jun 2007 (8 years 2 months)
 
 ### Software Engineer
 **Inter RAO** \
-Aug 1995 - Apr 1999 (3 years 9 months) \
+Aug 1995 - Apr 1999 (3 years 9 months)
 
 ## Education
 Ivanovo State Power University \
@@ -108,6 +108,6 @@ Java software development • Core Java • JDBC • SQL • Hibernate • Maven
 
 ## Honors & Awards
 
-- Better Programmer Java Hands-On certifiaction - http:// www.betterprogrammer.com/certificate/BP1NXDMTV \
+- [Better Programmer Java Hands-On certifiaction](http:// www.betterprogrammer.com/certificate/BP1NXDMTV) \
 Apr 2012 \
 successfully completed the Better ProgrammerTM online test and solved multiple hands-on programming tasks better than 97% of all test takers.
