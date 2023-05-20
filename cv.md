@@ -6,19 +6,19 @@ andrew.vokhmin@gmail.com
 
 ### Software Development Engineer
 **Spotware Systems** \
-Jun 2021 (9 months) \
+Jun 2021 - Present \
 Jan 2016 - Jan 2020 (4 years 1 month) \
 Responsibilities:
-- As a part of a server-side team, development and supporting backend services of the high-loaded multi-instrumental trading platform and later the crypto-currency exchange (trading functionality: orders matching and processing, user management, various stateless and stateful services, interactions with Postrgesql and RabbitMQ);
+- As a part of a server-side team, development and supporting backend services of the high-loaded multi-instrumental trading platform and later the crypto-currency exchange (trading functionality: orders matching and processing, user management, various stateless and stateful services, interactions with with Postrgesql, Redis and RabbitMQ);
 - Implementing adapters to communicate with third party market liquidity providers (FIX or proprietary protocol) and with different blockchains through the json-rpc API (Bitcoin, Ethereum, ERC20 tokens) and integration java based services with Solidity contracts;
 - Participating in making architecture and technical decisions, research, and prototyping;
 - Communicating with frontend teams to specify and clarify the interaction protocols (REST and Protobuf based);
 - Writing unit/functional/acceptance tests and maintaining a consistent state of the builds;
-- Working with SysOps and DevOps team for deployment, configuring and supporting Production/UAT/ DEV environments (Docker, Bitcoin and geth core, Shell scripts).
+- Working with SysOps and DevOps team for deployment, configuring and supporting Production/UAT/DEV environments (Docker, Bitcoin and GEth core, Shell scripts).
 
-Lately I've been doing a lot of infrastructural and DevOps-related tasks. Optimized project build processes, CI pipelines and DB migrations. Implemented Docker/Compose based environment for local development executing all backend services, which made it possible to write full-fledged end-to-end tests for the company's server products. Helped migrate this solution to Kubernetes.
+Also I've been doing a lot of infrastructural and DevOps-related tasks. Optimized project build processes, CI pipelines and DB migrations. Implemented Docker/Compose based environment for local development executing all backend services, which made it possible to write full-fledged end-to-end tests for the company's server products. Helped migrate this solution to Kubernetes.
 
-### Software Engineer
+### Software Development Engineer
 **hoolah** \
 Feb 2020 – Jun 2021 (1 year 5 months) \
 Responsibilities:
@@ -47,7 +47,7 @@ system. Partnership with an external technical staff of e-markets.
 
 During my work I examined a recommended base workflow of e-trading (quoting, negotiation, booking), FpML/FIX protocols and specific protocols of concerned markets for some asset classes, mainly, interest rates and credit default swaps. I wrote a lot of regression tests (proprietary junit based framework) for validating different trading workflows and interactions with internal services of the bank application stack, as well as with external services of markets, the part of tests was for checking failover of service (communication failures, switching to hot standby, etc.). My team and I created the quoting/ negotiation/booking-services for BondVision-market from scratch, as a result they were taken for UAT- testing; the functional of Bloomberg and Tradeweb services were extended to support trading of CDS (one-legged / multi-legged), there was completed UAT-testing and started operation. As other members of the team I was involved in a process of design and development of project (Scrum), was working with an existing source code (adding new features, fixing bugs, changing versions of internal/external protocols, refactoring), was participating in automating the build and the deployment.
 
-### Software Engineer
+### Software Development Engineer
 **SMI2.NET** \
 May 2012 - Jun 2014 (2 years 2 months) \
 Responsibilities:
