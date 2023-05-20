@@ -1,6 +1,14 @@
-## Andrey Vokhmin 
+# Andrey Vokhmin 
 Cyprus  
 andrew.vokhmin@gmail.com
+
+## Objective
+Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in Software Development Life Cycle (SDLC), Databases, and Cloud Technologies. Seeking new challenges where I can apply my technical expertise and leadership abilities to drive impactful projects.
+
+## Education
+Ivanovo State Power University  
+Master of Science (MS), Automation Engineer Technology/Technician  
+1990 - 1995
 
 ## Experience
 
@@ -93,11 +101,6 @@ May 1999 - Jun 2007 (8 years 2 months)
 ### Software Engineer
 **Inter RAO**  
 Aug 1995 - Apr 1999 (3 years 9 months)
-
-## Education
-Ivanovo State Power University  
-Master of Science (MS), Automation Engineer Technology/Technician  
-1990 - 1995
 
 ## Licenses & Certifications
 - M101J: MongoDB for Java Developers - 10gen, The MongoDB Company
