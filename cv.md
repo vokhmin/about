@@ -1,14 +1,33 @@
 # Andrey Vokhmin 
-Cyprus  
+Cyprus, Limassol  
 andrew.vokhmin@gmail.com
 
 ## Objective
-Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in Software Development Life Cycle (SDLC), Databases, and Cloud Technologies. Seeking new challenges where I can apply my technical expertise and leadership abilities to drive impactful projects.
+Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in Software Development Life Cycle, Databases, and Cloud Technologies. Seeking new challenges where I can apply my technical expertise and leadership abilities to drive impactful projects.
+
+## Skills
+
+Software Development:
+- Archetecture: Microservices and Distributed systems, REST Services, API
+- Workflow: Maven/Gradle, Git, Agile;
+- Relational DB: PostgreSQL, MySql; NoSql: Redis, Mongo;
+- Message Services: RabbitMQ, Kafka;
+- Cloud Techs: AWS;
+- Blockchain: Bitcoin/Ethereum/ERC20, Solidity;
+- Lamguages: GoLang, Python, JavaScript.
+
+Java and JVM:
+- Core Java, Multithreading, Concurrency;
+- Spring Framework, Netty, JDBC/Hibernate;
+- Kotlin.
+
+DevOps:
+- Containers Techs: Docker, Kubernetes;
+- Ansible.
 
 ## Education
 Ivanovo State Power University  
 Master of Science (MS), Automation Engineer Technology/Technician  
-1990 - 1995
 
 ## Experience
 
@@ -94,14 +113,6 @@ Responsibilities:
 In the team (number of developers ranged from 2 to 5 people): assignments and supervision of the tasks, code-review and project management, support environment for testing and development; carried out the task of coding, testing and debugging.
 - Responsible for maintenance the deployment, updating, and configuring the service, worked with the system administrators of company and the technical specialists of partners, processed the requests from the tech-support, participated in the analysis of error conditions and reconciliations.
 
-### Software Engineer, Team Lead
-**Uralsvyazinform JSC, Nizhnevartovsk Telecom**  
-May 1999 - Jun 2007 (8 years 2 months)
-
-### Software Engineer
-**Inter RAO**  
-Aug 1995 - Apr 1999 (3 years 9 months)
-
 ## Licenses & Certifications
 - M101J: MongoDB for Java Developers - 10gen, The MongoDB Company
 2f231ed492494639ae9fc8c81b3c1b0c  
@@ -110,13 +121,3 @@ Aug 1995 - Apr 1999 (3 years 9 months)
 J99X7MHM38DG  
 - Front-End Web UI Frameworks and Tools - Coursera Course Certificates FLAAR73TM974  
 - HTML, CSS and JavaScript - Coursera Course Certificates WBATCRW9U56S
-
-## Skills
-
-Java software development • Core Java • JDBC • SQL • Hibernate • Maven/Gradle • Spring Framework • J2SE  • Kotlin
-
-### Honors & Awards
-
-- [Better Programmer Java Hands-On certifiaction](http:// www.betterprogrammer.com/certificate/BP1NXDMTV)  
-Apr 2012  
-successfully completed the Better ProgrammerTM online test and solved multiple hands-on programming tasks better than 97% of all test takers.
