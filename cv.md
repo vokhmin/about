@@ -11,7 +11,7 @@ Java and JVM (main specialization):
 - **Core Java**, **Multithreading**, **Concurrency**;
 - **Spring Framework**, **Netty**, **JDBC/Hibernate**;
 - **Kotlin**, Groovy.
-- 
+
 Software Development:
 - Architecture: **Microservices** and **Distributed systems**, **REST Services**, **API**
 - Workflow: **Maven**/Gradle, **Git**, **Agile**;
