@@ -1,6 +1,7 @@
 # Andrey Vokhmin 
 Cyprus, Limassol  
 andrew.vokhmin@gmail.com
+[LinkedIn profile](https://www.linkedin.com/in/andrey-vokhmin-30524b4b)
 
 ## Objective
 Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in Software Development Life Cycle, Databases, and Cloud Technologies. I am seeking new challenges where I can apply my technical expertise and leadership abilities to drive impactful projects.
@@ -31,9 +32,17 @@ Master of Science (MS), Automation Engineer Technology/Technician
 
 ## Experience
 
+### Software Engineer
+Oct 2025 - Present
+**Venga**
+Responsibilities:
+- Development and design of the backend for a crypto-wallet, the technology stack includes Java 21, SpringFramework, Postrgesql, Kafka, etc..
+- Integration with Blockchain and networks: ETH, BTC, TRX, Solana, and their tokens (ERC20, TRC20, etc.).
+- System analytics, designing API (REST) and protocols (WebSocket) interactions for the frontend.
+
 ### Software Development Engineer
 **Spotware Systems**  
-Jun 2021 - Present  
+Jun 2021 - Aug 2024  
 Responsibilities:
 - Continued to perform the duties I performed during my previous employment (2016-2020), including backend development and support, communication with third-party providers and frontend teams, testing, and collaboration with SysOps and DevOps teams.
 - Adopted the role of an architect, supervising the creation of a new service for managing trading bots (proprietary solution cBot/AlgoTrading) in a Kubernetes cloud environment.
