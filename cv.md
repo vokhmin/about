@@ -4,7 +4,8 @@ andrew.vokhmin@gmail.com
 [LinkedIn profile](https://www.linkedin.com/in/andrey-vokhmin-30524b4b)
 
 ## Objective
-Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in Software Development Life Cycle, Databases, and Cloud Technologies. I am seeking new challenges where I can apply my technical expertise and leadership abilities to drive impactful projects.
+
+I am an experienced Software Engineer and Team Lead with a robust background in software development, specializing in high-performance back-end systems, particularly in trading platforms and financial services. Proficient in designing and building server-side components on the JVM platform, databases (relational and NoSQL), messaging services, and web servers. As a T-shaped developer, I possess deep expertise in Java Core and related technologies, complemented by extensive knowledge of database design, network technologies, and particularly strong experience in DevOps practices, including Kubernetes, Docker, cloud infrastructure, CI/CD, and monitoring solutions. I am enthusiastic about exploring and developing skills in Blockchain technology, aiming to expand my expertise into decentralized systems and crypto-based applications. I consistently apply modern methodologies (DDD, TDD, BDD), efficient code management (Git), and maintain proficiency in related languages like Python, Go, C#, and JavaScript. My strengths include architectural design, strategic technical decision-making, and comprehensive oversight of the product lifecycle—from coding and testing to deployment and operations. I thrive in collaborative, agile teams and continuously seek opportunities for professional growth and innovation.
 
 ## Skills
 
@@ -36,9 +37,11 @@ Master of Science (MS), Automation Engineer Technology/Technician
 Oct 2025 - Present
 **Venga**
 Responsibilities:
-- Development and design of the backend for a crypto-wallet, the technology stack includes Java 21, SpringFramework, Postrgesql, Kafka, etc..
-- Integration with Blockchain and networks: ETH, BTC, TRX, Solana, and their tokens (ERC20, TRC20, etc.).
-- System analytics, designing API (REST) and protocols (WebSocket) interactions for the frontend.
+- Developing the backend for a crypto-wallet using Java 21, Spring Framework, Postrgesql, Kafka, etc..
+- Implementing a scalable and secure microservices architecture to support cryptocurrency transactions.
+- System analytics and designing API (REST) and protocols (WebSocket) interactions for the frontend.
+- Integrating with various blockchain networks (ETH, BTC, TRX, Solana, and their tokens ERC20, TRC20, etc.) to facilitate seamless digital asset management.
+- Working within an Agile team to deliver high-quality software solutions in a fast-paced environment.
 
 ### Software Development Engineer
 **Spotware Systems**  
